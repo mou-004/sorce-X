@@ -1,0 +1,20 @@
+{
+  "name":"source-x-admin-professional",
+  "version":"1.0.0",
+  "type":"module",
+  "scripts":{"dev":"vite","build":"vite build"},
+  "dependencies":{
+    "firebase":"latest",
+    "react":"latest",
+    "react-dom":"latest",
+    "react-router-dom":"latest",
+    "lucide-react":"latest",
+    "recharts":"latest",
+    "react-hot-toast":"latest"
+  },
+  "devDependencies":{
+    "@vitejs/plugin-react":"latest",
+    "@tailwindcss/vite":"latest",
+    "vite":"latest"
+  }
+}
