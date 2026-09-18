@@ -58,6 +58,6 @@ The main purpose of Source X is to make **reliable sourcing and access easier fo
 **Admin Source Management Panel – Completed**
 
 
-##live link::  
+##Live Demo
 
-source-x.netlify.app
+Source X – Live Demo
